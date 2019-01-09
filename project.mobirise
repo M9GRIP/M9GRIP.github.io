@@ -48,7 +48,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 78,
     "versionPublish": "4.8.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/schermafbeelding-2019-01-09-om-20.00.41-128x124.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
